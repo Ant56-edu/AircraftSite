@@ -1,0 +1,55 @@
+@charset "UTF-8";
+
+header {
+	background: rgb(63, 191, 121);
+}
+
+body {
+	background: black;
+}
+
+footer {
+	align-content: center;
+	background-color: #ff6600;
+}
+
+label{
+	color: white;
+}
+
+h1 {
+	color: white;
+}
+
+h2 {
+	color: white;
+}
+
+h3 {
+	color: white;
+}
+
+p {
+	color: white;
+}
+
+td {
+	border: thin, solid, white;
+	background-color: silver;
+}
+
+tr {
+	border: thin, solid, white;
+}
+
+.headerLink {
+	padding-left: 70%;
+	color: white;
+}
+
+.entryLink {
+	color: white;
+}
+
+
+
